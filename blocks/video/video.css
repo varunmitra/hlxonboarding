@@ -1,0 +1,19 @@
+.video-stream
+{
+  left: 0; 
+  width: 80%;
+   height: 0; 
+   position: left; 
+   padding-bottom: 56.25%;
+}
+
+
+.video-faq {
+    padding: 0 18px;
+    margin: 0 20px;
+    display: none;
+    background-color: white;
+    overflow: hidden;
+    border-left:solid 1px #ccc;
+    width: 20%
+  }
